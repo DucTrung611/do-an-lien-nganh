@@ -1,0 +1,332 @@
+{
+    "ACB": [
+        {
+            "time": "2024-07-22",
+            "open": 25100,
+            "high": 25200,
+            "low": 24650,
+            "close": 24750,
+            "volume": 15146800,
+            "ticker": "ACB"
+        }
+    ],
+    "BCM": [
+        {
+            "time": "2024-07-22",
+            "open": 67800,
+            "high": 67800,
+            "low": 66100,
+            "close": 67700,
+            "volume": 1161000,
+            "ticker": "BCM"
+        }
+    ],
+    "BID": [
+        {
+            "time": "2024-07-22",
+            "open": 47700,
+            "high": 48700,
+            "low": 47200,
+            "close": 47700,
+            "volume": 3438100,
+            "ticker": "BID"
+        }
+    ],
+    "BVH": [
+        {
+            "time": "2024-07-22",
+            "open": 45400,
+            "high": 45800,
+            "low": 44050,
+            "close": 44750,
+            "volume": 879100,
+            "ticker": "BVH"
+        }
+    ],
+    "CTG": [
+        {
+            "time": "2024-07-22",
+            "open": 33200,
+            "high": 34100,
+            "low": 33150,
+            "close": 33650,
+            "volume": 15868100,
+            "ticker": "CTG"
+        }
+    ],
+    "FPT": [
+        {
+            "time": "2024-07-22",
+            "open": 126000,
+            "high": 126000,
+            "low": 123200,
+            "close": 124100,
+            "volume": 6216900,
+            "ticker": "FPT"
+        }
+    ],
+    "GAS": [
+        {
+            "time": "2024-07-22",
+            "open": 77800,
+            "high": 77800,
+            "low": 76600,
+            "close": 77000,
+            "volume": 1142800,
+            "ticker": "GAS"
+        }
+    ],
+    "GVR": [
+        {
+            "time": "2024-07-22",
+            "open": 34000,
+            "high": 34100,
+            "low": 32600,
+            "close": 32750,
+            "volume": 6232700,
+            "ticker": "GVR"
+        }
+    ],
+    "HDB": [
+        {
+            "time": "2024-07-22",
+            "open": 24850,
+            "high": 25300,
+            "low": 24600,
+            "close": 25300,
+            "volume": 10027300,
+            "ticker": "HDB"
+        }
+    ],
+    "HPG": [
+        {
+            "time": "2024-07-22",
+            "open": 28100,
+            "high": 28200,
+            "low": 27750,
+            "close": 28050,
+            "volume": 18399400,
+            "ticker": "HPG"
+        }
+    ],
+    "MBB": [
+        {
+            "time": "2024-07-22",
+            "open": 25300,
+            "high": 25750,
+            "low": 24650,
+            "close": 25200,
+            "volume": 33806600,
+            "ticker": "MBB"
+        }
+    ],
+    "MSN": [
+        {
+            "time": "2024-07-22",
+            "open": 71100,
+            "high": 72600,
+            "low": 70400,
+            "close": 72200,
+            "volume": 4068800,
+            "ticker": "MSN"
+        }
+    ],
+    "MWG": [
+        {
+            "time": "2024-07-22",
+            "open": 65200,
+            "high": 65400,
+            "low": 63800,
+            "close": 65300,
+            "volume": 5883400,
+            "ticker": "MWG"
+        }
+    ],
+    "PLX": [
+        {
+            "time": "2024-07-22",
+            "open": 46800,
+            "high": 46800,
+            "low": 45450,
+            "close": 46350,
+            "volume": 2144800,
+            "ticker": "PLX"
+        }
+    ],
+    "POW": [
+        {
+            "time": "2024-07-22",
+            "open": 13400,
+            "high": 13750,
+            "low": 13100,
+            "close": 13450,
+            "volume": 12605600,
+            "ticker": "POW"
+        }
+    ],
+    "SAB": [
+        {
+            "time": "2024-07-22",
+            "open": 55200,
+            "high": 56500,
+            "low": 54700,
+            "close": 55700,
+            "volume": 990500,
+            "ticker": "SAB"
+        }
+    ],
+    "SHB": [
+        {
+            "time": "2024-07-22",
+            "open": 11300,
+            "high": 11350,
+            "low": 11100,
+            "close": 11200,
+            "volume": 21589300,
+            "ticker": "SHB"
+        }
+    ],
+    "SSB": [
+        {
+            "time": "2024-07-22",
+            "open": 21100,
+            "high": 21200,
+            "low": 20850,
+            "close": 21150,
+            "volume": 2891000,
+            "ticker": "SSB"
+        }
+    ],
+    "SSI": [
+        {
+            "time": "2024-07-22",
+            "open": 34750,
+            "high": 35050,
+            "low": 34150,
+            "close": 34650,
+            "volume": 10111600,
+            "ticker": "SSI"
+        }
+    ],
+    "STB": [
+        {
+            "time": "2024-07-22",
+            "open": 30300,
+            "high": 30600,
+            "low": 29900,
+            "close": 30000,
+            "volume": 10809000,
+            "ticker": "STB"
+        }
+    ],
+    "TCB": [
+        {
+            "time": "2024-07-22",
+            "open": 23300,
+            "high": 23800,
+            "low": 23000,
+            "close": 23650,
+            "volume": 14480100,
+            "ticker": "TCB"
+        }
+    ],
+    "TPB": [
+        {
+            "time": "2024-07-22",
+            "open": 18400,
+            "high": 18900,
+            "low": 18300,
+            "close": 18600,
+            "volume": 32697700,
+            "ticker": "TPB"
+        }
+    ],
+    "VCB": [
+        {
+            "time": "2024-07-22",
+            "open": 87500,
+            "high": 88300,
+            "low": 87300,
+            "close": 87700,
+            "volume": 1461100,
+            "ticker": "VCB"
+        }
+    ],
+    "VHM": [
+        {
+            "time": "2024-07-22",
+            "open": 38000,
+            "high": 38000,
+            "low": 37300,
+            "close": 37900,
+            "volume": 5135700,
+            "ticker": "VHM"
+        }
+    ],
+    "VIB": [
+        {
+            "time": "2024-07-22",
+            "open": 21450,
+            "high": 21800,
+            "low": 21250,
+            "close": 21350,
+            "volume": 5098600,
+            "ticker": "VIB"
+        }
+    ],
+    "VIC": [
+        {
+            "time": "2024-07-22",
+            "open": 40750,
+            "high": 41000,
+            "low": 40200,
+            "close": 40750,
+            "volume": 1776000,
+            "ticker": "VIC"
+        }
+    ],
+    "VJC": [
+        {
+            "time": "2024-07-22",
+            "open": 104800,
+            "high": 105500,
+            "low": 104500,
+            "close": 105300,
+            "volume": 741200,
+            "ticker": "VJC"
+        }
+    ],
+    "VNM": [
+        {
+            "time": "2024-07-22",
+            "open": 65300,
+            "high": 66000,
+            "low": 65200,
+            "close": 65400,
+            "volume": 2654800,
+            "ticker": "VNM"
+        }
+    ],
+    "VPB": [
+        {
+            "time": "2024-07-22",
+            "open": 18800,
+            "high": 19050,
+            "low": 18650,
+            "close": 18800,
+            "volume": 15847000,
+            "ticker": "VPB"
+        }
+    ],
+    "VRE": [
+        {
+            "time": "2024-07-22",
+            "open": 19900,
+            "high": 20150,
+            "low": 19600,
+            "close": 20050,
+            "volume": 7586900,
+            "ticker": "VRE"
+        }
+    ]
+}
